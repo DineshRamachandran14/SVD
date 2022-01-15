@@ -121,14 +121,5 @@ if __name__ == '__main__':
 	main()
 
 
-# In[ ]:
-
-
-streamlit run /Users/dinesh/opt/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py
-
-
-# In[ ]:
-
-
 
 
